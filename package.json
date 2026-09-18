@@ -19,10 +19,13 @@
     "firebase": "^12.16.0",
     "firebase-admin": "^14.2.0",
     "googleapis": "^173.0.0",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^4.2.1",
     "lucide-react": "^0.546.0",
     "motion": "^12.23.24",
     "react": "^19.0.1",
     "react-dom": "^19.0.1",
+    "recharts": "^3.10.1",
     "vite": "^6.2.3"
   },
   "devDependencies": {

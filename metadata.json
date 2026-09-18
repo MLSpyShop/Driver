@@ -1,6 +1,6 @@
 {
   "name": "Driver",
-  "description": "Google Drive Duplicate Files Detector & Deleter tool that offers secure, automated cloud storage cleanup.",
+  "description": "Google Drive Duplicate Files Detector, Storage Insights, and SEO-optimized HTML Folder Exporter with Blogger template compatibility and document embeds.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
